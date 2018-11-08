@@ -1,4 +1,4 @@
-//TOP VIEW, BOTTOM VIEW, SIDE VIEW, CIRCUMFERENCE OF A BST
+//TOP VIEW OF A BST
 
 package BST;
 import java.util.*;
